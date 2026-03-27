@@ -1,11 +1,11 @@
 ## Hi, I'm Manisha 👋
 
-Welcome to my little corner of GitHub!
+Welcome to my little corner of GitHub!  
 I’m passionate about growing in my career, picking up new tech skills, and making work life a little less overwhelming (and a lot more fun). Here, you'll find:
 
-🛠️ Projects I’m building or contributing to
-📚 Things I’ve learned while juggling work, deadlines, and debugging
-🌱 Bits of inspiration for anyone trying to survive—and thrive—in the corporate jungle
+- 🛠️ Projects I’m building or contributing to
+- 📚 Things I’ve learned while juggling work, deadlines, and debugging
+- 🌱 Bits of inspiration for anyone trying to survive—and thrive—in the corporate jungle
 
 
 ## 🌐 Socials:
